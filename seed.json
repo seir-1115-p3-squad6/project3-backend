@@ -1,1 +1,14 @@
-[]
+[
+{"low-light": "pencil catus",
+    "high-light": 
+    "low-moisture" : boolean,
+    "high-moisture": 
+    "level": String (opt: beg. mod. adv.)
+    "image": 
+    "name": String
+     "species name": String
+    "Description": String (how to care for plant etc)
+    "purchase link": String
+    "varieties": Number
+}
+]
