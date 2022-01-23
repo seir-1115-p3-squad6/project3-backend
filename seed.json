@@ -1,1 +1,74 @@
-[]
+[
+	{
+		"low-light": false,
+		"high-light": true,
+		"low-moisture": false,
+		"level": "mod",
+		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/e/u/euphorbia_-_pink_petticoat.jpg",
+		"name": "Pink Petticoat",
+		"species": "Crown of Thorns",
+		"description": "Thai Giant Euphorbia ‘Cheerful’ has large, 1-2” flowers with pink petals and green petal flares. The blossoms appear in clusters during the spring and summer blooming season, and the flowers are often dappled with light pink and white tones. Euphorbias are indestructible houseplants that thrive on neglect. Be sure to let the soil dry out between waterings. This easy-care plant will thrive on a sunny windowsill, or grow it outside during the warm summer months.",
+		"purchase_link": "https://www.logees.com/crown-of-thorns-pink-petticoat-euphorbia-milii-hybrid.html",
+		"varieties": null
+	},
+	{
+		"low-light": false,
+		"high-light": true,
+		"low-moisture": true,
+		"level": "mod",
+		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
+		"name": "Innocent Glow (Adenium hybrid)",
+		"species": "Desert Rose",
+		"description": "attractive pink flowers with pointed petals and a slight frill on the petal edges. It makes a decorative flowering plant during the spring to fall bloom season. By storing water in a thickened caudex, adeniums thrive in the arid conditions of their natural habitat in sub-Saharan Africa. Grow in a well-draining potting mix and fertilize only during periods of active growth. Be careful not to overwater. This is a one-year-old grafted plant with a thickened caudex",
+		"purchase_link": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
+		"varieties": null
+	},
+	{
+		"low-light": true,
+		"high-light": false,
+		"low-moisture": true,
+		"level": "mod",
+		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/c/r/crassula_black_curl.jpg",
+		"name": "Black Curl (Crassula spiralis)",
+		"species": "Crassula",
+		"description": "rare, miniature succulent has bright green leaves that form in columns of geometric spirals. When viewed from above, the leaves create a swirling pattern, and when mature, it forms 3-6 spiraled tips on each column. Small, white flowers appear within the leaves. Crassula ‘Black Curl’ is a highly desirable succulent that’s a slow grower and adds a unique shape to the windowsill garden. Grow in full to partial sun and water sparingly.",
+		"purchase_link": "https://www.logees.com/crassula-black-curl-crassula-spiralis.html",
+		"varieties": null
+	},
+	{
+		"low-light": false,
+		"high-light": true,
+		"low-moisture": false,
+		"level": "mod",
+		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/b/e/bead_plant_in_face_pot-sm.jpg",
+		"name": "Bead Plant (Senecio rowleyanus)",
+		"species": "Bead Plant",
+		"description": "Here’s an easy-to-grow succulent with round, fleshy leaves from which its common names, Bead Plant or String of Pearls, are derived. Unique in its form, yet tolerant of extremes in dryness, the draping basket of green beads lights up any room with greenery and plant life. When it blooms, the Bead Plant has small white flowers that smell like cinnamon. This South African native is nearly indestructible when grown in full to partial sun.",
+		"purchase_link": "logees.com/bead-plant-senecio-rowleyanus-1953.html",
+		"varieties": null
+	},
+	{
+		"low-light": true,
+		"high-light": false,
+		"low-moisture": true,
+		"level": "beg",
+		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/o/r/orchid_phalaenopsis_fancy_freckles.jpg",
+		"name": "Phalaenopsis Orchid ‘Fancy Freckles’",
+		"species": "Orchid",
+		"description": "‘Fancy Freckles’ has yellow flowers with decorative red spots throughout the petals and a bright red lip. Flower spikes can reach up to 22” tall and often branch so the flower count is higher. The long-lasting blooms hold on the plant for 2-3 months. It can rebloom in both spring and fall. Leave the old flower spikes on the plant since it will frequently rebloom from old spikes. ‘Fancy Freckles’ is shipped in short spike, ready to flower in your home.",
+		"purchase_link": "https://www.logees.com/phalaenopsis-orchid-fancy-freckles-phalaenopsis-hybrid.html",
+		"varieties": null
+	},
+	{
+		"low-light": true,
+		"high-light": false,
+		"low-moisture": true,
+		"level": "beg",
+		"image": "https://www.bambooland.com.au/assets/thumbL/MEDMYR180.jpg?20210309031556",
+		"name": "Malaysian Orchid (Medinilla myriantha)",
+		"species": "Orchid",
+		"description": "This stunning tropical from Southeast Asia tolerates moderate light and dry conditions making it perfect for indoor growing. Myriantha is one of the easiest Medinillas to grow putting on a spectacular display of blooms that lasts for months. The large umbels of light pink blossoms emerge in clusters from the broad deep green leaves. As they mature, they cascade down with numerous small flowers opening over many weeks. The flowers are followed by pink berries that eventually turn a dark purple.",
+		"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
+		"varieties": null
+	}
+]
