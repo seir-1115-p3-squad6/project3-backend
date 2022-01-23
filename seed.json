@@ -70,7 +70,7 @@
 		"description": "This stunning tropical from Southeast Asia tolerates moderate light and dry conditions making it perfect for indoor growing. Myriantha is one of the easiest Medinillas to grow putting on a spectacular display of blooms that lasts for months. The large umbels of light pink blossoms emerge in clusters from the broad deep green leaves. As they mature, they cascade down with numerous small flowers opening over many weeks. The flowers are followed by pink berries that eventually turn a dark purple.",
 		"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
 		"varieties": null
-	}
+	},
     {
         "name": "Aloe vera",
         "low-light": false,
@@ -125,5 +125,19 @@
         "species-name": "Plectranthus scutellarioides",
         "description": "TBD",
         "purchase-link": "TBD"
-    }
+    },
+	{
+	"low-light": false,
+	"high-light": true,
+	"low-moisture": true,
+	"level": "beg",
+	"image": null,
+	"name" : "Pencil Cactus",
+	"species": "Cactus",
+	"description": null,
+	"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
+	"varieties": null
+	}
 ]
+
+
