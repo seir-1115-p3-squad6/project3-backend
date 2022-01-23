@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "name": "Aloe vera",
+        "low-light": false,
+        "high-light": true,
+        // "low-moisture": true,
+        // "high-moisture": false,
+        "level": "beginner",
+        "image": "TBD",
+        "species-name": "Aloe barbadensis miller",
+        "description": "TBD",
+        "purchase-link": "TBD"
+    },
+    {
+        "name": "Spider Plant",
+        "low-light": false,
+        "high-light": true,
+        // "low-moisture": false,
+        // "high-moisture": false,
+        "level": "beginner",
+        "image": "TBD",
+        "species-name": "Chlorophytum comosum",
+        "description": "TBD",
+        "purchase-link": "TBD"
+    },
+    {
+        "name": "Jade",
+        "low-light": false,
+        "high-light": true,
+        // "low-moisture": true,
+        // "high-moisture": false,
+        "level": "moderate",
+        "image": "TBD",
+        "species-name": "Crassula arborescens",
+        "description": "TBD",
+        "purchase-link": "TBD"
+    },
+    {
+        "name": "Peace Lily",
+        "low-light": true,
+        "high-light": false,
+        // "low-moisture": true,
+        // "high-moisture": false,
+        "level": "moderate",
+        "image": "TBD",
+        "species-name": "Spathiphyllum",
+        "description": "TBD",
+        "purchase-link": "TBD"
+    },
+    {
+        "name": "Coleus",
+        "low-light": false,
+        "high-light": true,
+        // "low-moisture": true,
+        // "high-moisture": false,
+        "level": "moderate",
+        "image": "TBD",
+        "species-name": "Plectranthus scutellarioides",
+        "description": "TBD",
+        "purchase-link": "TBD"
+    }
+]
