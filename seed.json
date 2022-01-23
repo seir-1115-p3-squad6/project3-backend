@@ -139,14 +139,58 @@
 		"varieties": null
 	},
 	{
-		"level": "",
-		"name": "Flamingo Plant",
-		"image": "",
-		"Purchase link": "",
-		"Species": "",
-		"Varieties": "",
-		"Light": "",
-		"Moisture": "",
-		"Description": ""
+		"level": "beg",
+		"name": "Flamingo flower",
+		"image": "https://www.plants.com/images/157713-Red-Anthurium-Plant-L_20210310-1615393811495.webp",
+		"Purchase link": "https://www.plants.com/p/red-anthurium-plant-157713?pla=9235&gclid=CjwKCAiAlrSPBhBaEiwAuLSDUIFlsppdbk7AtgeFAIeIS0wN8_nfIWEKslQNSL8_tKumUTudWqQneBoCGr4QAvD_BwE",
+		"Species": "Anthurium",
+		"Varieties": 42,
+		"Light": "high",
+		"Moisture": "medium",
+		"Description": "A cheery, exotic flowering houseplant, Perfect for contestable and tabletops. Special Feature: Anthurium is a natural air purifier! it’s been scientifically proven to scrub harmful chemicals and indoor air pollutions from homes and offices!!!"
+	},
+	{
+		"level": "beg",
+		"name": "Bird of Paradise",
+		"image": "https://b3h2.scene7.com/is/image/BedBathandBeyond/168527164562810p?$460$&wid=515&hei=515",
+		"Purchase link": "https://www.bedbathandbeyond.com/store/product/nearly-natural-24-inch-bird-of-paradise-in-black-glass-pot/5064888?skuId=64562810&store=&enginename=google&mcid=PS_googlepla_nonbrand_homedecor_online&product_id=64562810&adtype=pla&product_channel=online&adpos=&creative=224230473969&device=c&matchtype=&network=g&rkg_id=0&utm_campaignid=71700000037211535&utm_adgroupid=58700004139982674&targetid=92700034278910067&gclid=CjwKCAiAlrSPBhBaEiwAuLSDUKLOd3hES_FNiyQrgR7REJ7csrGyma6MwDB9yVCc_yQtKbq4h_V7JBoC0JwQAvD_BwE&gclsrc=aw.ds",
+		"Species": "Strelitzia reginae",
+		"Varieties": 70,
+		"Light": "high",
+		"Moisture": "medium",
+		"Description": null
+	},
+	{
+		"level": "beg",
+		"name": "Cinese Money Plant",
+		"image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_pilea_variant_small_grant_cream_1440x.jpg?v=1634560123",
+		"Purchase link": "https://www.logees.com/chinese-money-plant-pilea-peperomioides.html",
+		"Species": "Pilea Peperomoides",
+		"Varieties": 600,
+		"Light": "low",
+		"Moisture": "low",
+		"Description": "The perfect houseplant that is easy to grow, has fun foliage, and is a hardy indoor plant ensuring you can be successful with it. This lovely plant can be grown in low, medium, or high light. Note: it is best to protect the leaves from direct sun by using a sheer curtain or light filter."
+	},
+	{
+		"level": "beg",
+		"name": "Prayer Plant",
+		"image": "https://www.plants.com/images/177045m%20(2)_20200929-1601392041072.webp",
+		"Purchase link": "https://www.logees.com/prayer-plant-kim-maranta-leuconeura-e-morren.html",
+		"Species": "Marantaceae",
+		"Varieties": 50,
+		"Light": "high",
+		"Moisture": "medium",
+		"Description": "Unique and trendy houseplant, loved for its leaves that look like Lilly pads. Generally a thirsty plant so you want to water it once a week or more"
+	},
+	{
+		"level": "mod",
+		"name": "Swiss Cheese Plant",
+		"image": "https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_monstera_variant_medium_grant_black_587b36b4-4304-47f4-924e-b0bb4dfb0090_1280x.jpg?v=1611287458",
+		"Purchase link": "https://www.logees.com/swiss-cheese-vine-monstera-adansonii.html",
+		"Species": "Monstera Deliciosa",
+		"Varieties": 48,
+		"Light": "low",
+		"Moisture": "medium",
+		"Description": "Easy-to-grow exotic houseplane that can grow anywhere in the house! It tolerates low light but grows faster and becomes more flamboyant and vibrant in a bright spot."
 	}
 ]
