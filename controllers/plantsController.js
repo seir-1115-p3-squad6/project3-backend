@@ -33,6 +33,30 @@ router.post('/', async (req, res, next) => {
 	}
 });
 
+router.put('/:id', async (req, res, next) => {
+	try {
+		const updatedPlant = await Plant.findByIdAndUpdate(
+			req.params.id,
+			req.body,
+			{ new: true }
+		);
+		res.json(updatedPlant);
+	} catch (error) {
+		next(error);
+	}
+});
 
+router.delete('/id', async (req, res, next) => {
+	try {
+		const deletedPlant = await Plant.findByIdAndDelete(req.params.id);
+		if (deletedPlant) {
+			res.sendStatus(204).json(deletedPlant);
+		} else {
+			res.sendStatus(404);
+		}
+	} catch (error) {
+		next(error);
+	}
+});
 
 module.exports = router;
