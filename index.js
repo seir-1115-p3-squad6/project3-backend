@@ -27,8 +27,8 @@ app.get('/', (req, res) => {
 	res.redirect('/plants');
 });
 /* START CONTROLLERS HERE */
-const plantController = require('./controllers/plantController');
-app.use('/plants', plantController);
+const plantsController = require('./controllers/plantsController');
+app.use('/plants', plantsController);
 
 /* END CONTROLLERS HERE */
 
