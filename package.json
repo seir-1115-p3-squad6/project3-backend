@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/seir-1115-p3-squad6/project3-backend/issues"
   },
-  "homepage": "https://github.com/seir-1115-p3-squad6/project3-backend#readme"
+  "homepage": "https://github.com/seir-1115-p3-squad6/project3-backend#readme",
+  "dependencies": {
+    "mongoose": "^6.1.8"
+  }
 }
