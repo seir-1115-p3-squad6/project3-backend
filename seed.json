@@ -1,152 +1,226 @@
 [
-	{
-		"low-light": false,
-		"high-light": true,
-		"low-moisture": false,
-		"level": "mod",
-		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/e/u/euphorbia_-_pink_petticoat.jpg",
-		"name": "Pink Petticoat",
-		"species": "Crown of Thorns",
-		"description": "Thai Giant Euphorbia ‘Cheerful’ has large, 1-2” flowers with pink petals and green petal flares. The blossoms appear in clusters during the spring and summer blooming season, and the flowers are often dappled with light pink and white tones. Euphorbias are indestructible houseplants that thrive on neglect. Be sure to let the soil dry out between waterings. This easy-care plant will thrive on a sunny windowsill, or grow it outside during the warm summer months.",
-		"purchase_link": "https://www.logees.com/crown-of-thorns-pink-petticoat-euphorbia-milii-hybrid.html",
-		"varieties": null
-	},
-	{
-		"low-light": false,
-		"high-light": true,
-		"low-moisture": true,
-		"level": "mod",
-		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
-		"name": "Innocent Glow (Adenium hybrid)",
-		"species": "Desert Rose",
-		"description": "attractive pink flowers with pointed petals and a slight frill on the petal edges. It makes a decorative flowering plant during the spring to fall bloom season. By storing water in a thickened caudex, adeniums thrive in the arid conditions of their natural habitat in sub-Saharan Africa. Grow in a well-draining potting mix and fertilize only during periods of active growth. Be careful not to overwater. This is a one-year-old grafted plant with a thickened caudex",
-		"purchase_link": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
-		"varieties": null
-	},
-	{
-		"low-light": true,
-		"high-light": false,
-		"low-moisture": true,
-		"level": "mod",
-		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/c/r/crassula_black_curl.jpg",
-		"name": "Black Curl (Crassula spiralis)",
-		"species": "Crassula",
-		"description": "rare, miniature succulent has bright green leaves that form in columns of geometric spirals. When viewed from above, the leaves create a swirling pattern, and when mature, it forms 3-6 spiraled tips on each column. Small, white flowers appear within the leaves. Crassula ‘Black Curl’ is a highly desirable succulent that’s a slow grower and adds a unique shape to the windowsill garden. Grow in full to partial sun and water sparingly.",
-		"purchase_link": "https://www.logees.com/crassula-black-curl-crassula-spiralis.html",
-		"varieties": null
-	},
-	{
-		"low-light": false,
-		"high-light": true,
-		"low-moisture": false,
-		"level": "mod",
-		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/b/e/bead_plant_in_face_pot-sm.jpg",
-		"name": "Bead Plant (Senecio rowleyanus)",
-		"species": "Bead Plant",
-		"description": "Here’s an easy-to-grow succulent with round, fleshy leaves from which its common names, Bead Plant or String of Pearls, are derived. Unique in its form, yet tolerant of extremes in dryness, the draping basket of green beads lights up any room with greenery and plant life. When it blooms, the Bead Plant has small white flowers that smell like cinnamon. This South African native is nearly indestructible when grown in full to partial sun.",
-		"purchase_link": "logees.com/bead-plant-senecio-rowleyanus-1953.html",
-		"varieties": null
-	},
-	{
-		"low-light": true,
-		"high-light": false,
-		"low-moisture": true,
-		"level": "beg",
-		"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/o/r/orchid_phalaenopsis_fancy_freckles.jpg",
-		"name": "Phalaenopsis Orchid ‘Fancy Freckles’",
-		"species": "Orchid",
-		"description": "‘Fancy Freckles’ has yellow flowers with decorative red spots throughout the petals and a bright red lip. Flower spikes can reach up to 22” tall and often branch so the flower count is higher. The long-lasting blooms hold on the plant for 2-3 months. It can rebloom in both spring and fall. Leave the old flower spikes on the plant since it will frequently rebloom from old spikes. ‘Fancy Freckles’ is shipped in short spike, ready to flower in your home.",
-		"purchase_link": "https://www.logees.com/phalaenopsis-orchid-fancy-freckles-phalaenopsis-hybrid.html",
-		"varieties": null
-	},
-	{
-		"low-light": true,
-		"high-light": false,
-		"low-moisture": true,
-		"level": "beg",
-		"image": "https://www.bambooland.com.au/assets/thumbL/MEDMYR180.jpg?20210309031556",
-		"name": "Malaysian Orchid (Medinilla myriantha)",
-		"species": "Orchid",
-		"description": "This stunning tropical from Southeast Asia tolerates moderate light and dry conditions making it perfect for indoor growing. Myriantha is one of the easiest Medinillas to grow putting on a spectacular display of blooms that lasts for months. The large umbels of light pink blossoms emerge in clusters from the broad deep green leaves. As they mature, they cascade down with numerous small flowers opening over many weeks. The flowers are followed by pink berries that eventually turn a dark purple.",
-		"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
-		"varieties": null
-	},
-	{
-		"name": "Aloe vera",
-		"low-light": false,
-		"high-light": true,
-
-		"level": "beginner",
-		"image": "TBD",
-		"species-name": "Aloe barbadensis miller",
-		"description": "TBD",
-		"purchase-link": "TBD"
-	},
-	{
-		"name": "Spider Plant",
-		"low-light": false,
-		"high-light": true,
-
-		"level": "beginner",
-		"image": "TBD",
-		"species-name": "Chlorophytum comosum",
-		"description": "TBD",
-		"purchase-link": "TBD"
-	},
-	{
-		"name": "Jade",
-		"low-light": false,
-		"high-light": true,
-
-		"level": "moderate",
-		"image": "TBD",
-		"species-name": "Crassula arborescens",
-		"description": "TBD",
-		"purchase-link": "TBD"
-	},
-	{
-		"name": "Peace Lily",
-		"low-light": true,
-		"high-light": false,
-
-		"level": "moderate",
-		"image": "TBD",
-		"species-name": "Spathiphyllum",
-		"description": "TBD",
-		"purchase-link": "TBD"
-	},
-	{
-		"name": "Coleus",
-		"low-light": false,
-		"high-light": true,
-
-		"level": "moderate",
-		"image": "TBD",
-		"species-name": "Plectranthus scutellarioides",
-		"description": "TBD",
-		"purchase-link": "TBD"
-	},
-	{
-		"low-light": false,
-		"high-light": true,
-		"low-moisture": true,
-		"level": "beg",
-		"image": null,
-		"name": "Pencil Cactus",
-		"species": "Cactus",
-		"description": null,
-		"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
-		"varieties": null
-	},
-	{
-		"level": "",
-		"name": "Flamingo Plant",
-		"image": "",
-		"Purchase link": "",
-		"Species": "",
-		"Varieties": "",
-		"Light": "",
-		"Moisture": "",
-		"Description": ""
-	}
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/e/u/euphorbia_-_pink_petticoat.jpg",
+	"name": "Crown of Thorns",
+	"scientific-name": "Euphorbia milii hybrid",
+	"description": "Thai Giant Euphorbia ‘Cheerful’ has large, 1-2” flowers with pink petals and green petal flares. The blossoms appear in clusters during the spring and summer blooming season, and the flowers are often dappled with light pink and white tones. Euphorbias are indestructible houseplants that thrive on neglect. Be sure to let the soil dry out between waterings. This easy-care plant will thrive on a sunny windowsill, or grow it outside during the warm summer months.",
+	"purchase_link": "https://www.logees.com/crown-of-thorns-pink-petticoat-euphorbia-milii-hybrid.html",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "mod",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
+	"name": "Innocent Glow (Adenium hybrid)",
+	"scientific-name": "Adenium",
+	"description": "attractive pink flowers with pointed petals and a slight frill on the petal edges. It makes a decorative flowering plant during the spring to fall bloom season. By storing water in a thickened caudex, adeniums thrive in the arid conditions of their natural habitat in sub-Saharan Africa. Grow in a well-draining potting mix and fertilize only during periods of active growth. Be careful not to overwater. This is a one-year-old grafted plant with a thickened caudex",
+	"purchase_link": "https://www.logees.com/desert-rose-pearl-adenium-hybrid.html",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/c/r/crassula_black_curl.jpg",
+	"name": "Black Curl",
+	"scientific-name": "Crassula spiralis",
+	"description": "rare, miniature succulent has bright green leaves that form in columns of geometric spirals. When viewed from above, the leaves create a swirling pattern, and when mature, it forms 3-6 spiraled tips on each column. Small, white flowers appear within the leaves. Crassula ‘Black Curl’ is a highly desirable succulent that’s a slow grower and adds a unique shape to the windowsill garden. Grow in full to partial sun and water sparingly.",
+	"purchase_link": "https://www.logees.com/crassula-black-curl-crassula-spiralis.html",
+	"favorite": false
+},
+{
+	"light": "mod",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/b/e/bead_plant_in_face_pot-sm.jpg",
+	"name": "Bead Plant",
+	"scientific-name": "Senecio rowleyanus",
+	"description": "Here’s an easy-to-grow succulent with round, fleshy leaves from which its common names, Bead Plant or String of Pearls, are derived. Unique in its form, yet tolerant of extremes in dryness, the draping basket of green beads lights up any room with greenery and plant life. When it blooms, the Bead Plant has small white flowers that smell like cinnamon. This South African native is nearly indestructible when grown in full to partial sun.",
+	"purchase_link": "logees.com/bead-plant-senecio-rowleyanus-1953.html",
+	"favorite": false
+},
+{
+	"light": "low",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/o/r/orchid_phalaenopsis_fancy_freckles.jpg",
+	"name": "Fancy Freckles",
+	"scientific-name": "Phalaenopsis Orchid",
+	"description": "‘Fancy Freckles’ has yellow flowers with decorative red spots throughout the petals and a bright red lip. Flower spikes can reach up to 22” tall and often branch so the flower count is higher. The long-lasting blooms hold on the plant for 2-3 months. It can rebloom in both spring and fall. Leave the old flower spikes on the plant since it will frequently rebloom from old spikes. ‘Fancy Freckles’ is shipped in short spike, ready to flower in your home.",
+	"purchase_link": "https://www.logees.com/phalaenopsis-orchid-fancy-freckles-phalaenopsis-hybrid.html",
+	"favorite": false
+},
+{
+	"light": "med",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.bambooland.com.au/assets/thumbL/MEDMYR180.jpg?20210309031556",
+	"name": "Malaysian Orchid",
+	"scientific-name": "Medinilla myriantha",
+	"description": "This stunning tropical from Southeast Asia tolerates moderate light and dry conditions making it perfect for indoor growing. Myriantha is one of the easiest Medinillas to grow putting on a spectacular display of blooms that lasts for months. The large umbels of light pink blossoms emerge in clusters from the broad deep green leaves. As they mature, they cascade down with numerous small flowers opening over many weeks. The flowers are followed by pink berries that eventually turn a dark purple.",
+	"purchase_link": "https://www.logees.com/malaysian-orchid-medinilla-myriantha.html",
+	"favorite": false
+},
+{
+	"light": "med",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.thespruce.com/thmb/3XSSwPIPzRyQSpOc97zuDyUQWU8=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_DSC58741-476b7f7ef66d44ba8ce33cbc0d7b8dd4.jpg",
+	"name": "Aloe Vera",
+	"scientific-name": "Aloe barbadensis miller",
+	"description": "Aloe vera is commonly grown as a houseplant and gained favor because the gel from its leaves makes a soothing skin salve (although some people are actually irritated by the gel).",
+	"purchase-link": "TBD",
+	"favorite": "false"
+},
+{
+	"light": "mod",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.thespruce.com/thmb/z-_28WaLfJKF19Zre4WQTnVHGiM=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spider-plants-chlorophytum-definition-1902773-02-4fc579ee1b874f4ca148482782d163b6.jpg",
+	"name": "Spider Plant",
+	"scientific-name": "Chlorophytum comosum",
+	"description": "These hardy plants will survive less-than-perfect conditions, and they are stunning when you can mimic their native tropical environment. These plants grow slender, gently arching leaves that can stretch from around 1 to 1.5 feet long on average. The leaves can be green or striped green and white. Mature plants regularly send out long stems that bear small, star-shaped flowers.",
+	"purchase-link": "TBD",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "mod",
+	"difficulty": "beg",
+	"image": "https://www.thespruce.com/thmb/EvjsOfTArtJny4vQmC5d5n0_2dI=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-jade-plants-indoors-1902981-04-257462b8baf44352b881336423291f60.jpg",
+	"name": "Jade",
+	"scientific-name": "Crassula arborescens",
+	"description": "The jade plant is a popular succulent houseplant with fleshy, oval-shaped leaves and thick, woody stems that resemble tiny tree trunks. With just a bit of care, it can grow to be between 3 and 6 feet tall, but it does so slowly, growing about 2 inches a year.",
+	"purchase-link": "TBD",
+	"favorite": false
+},
+{
+	"light": "low",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.thespruce.com/thmb/16NwgnLN78S3kDeun436p28ZqpI=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-peace-lilies-1902767-hero-01-01-9cd2172cd5ef4d7198351df445b8e851.jpg",
+	"name": "Peace Lily",
+	"scientific-name": "Spathiphyllum",
+	"description": "Peace lilies are tropical species and hybrid from the Spathiphyllum genus that are a favorite flowering houseplant. A striking plant when used in mass display, the peace lily blooms in spring with long-lasting flower stalks that hover gracefully over the foliage. The plant has glossy oval leaves with points that emerge from the soil. A well-grown peace lily may bloom twice a year, resulting in several months of flowers.",
+	"purchase-link": "TBD",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "high",
+	"difficulty": "mod",
+	"image": "https://www.thespruce.com/thmb/ixTsrJEeyPlK0Cd8NWEHnMzM4Ac=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-coleus-1402921-03-14b65c6a336e4319867fdcb82187af28.jpg",
+	"name": "Coleus",
+	"scientific-name": "Plectranthus scutellarioides",
+	"description": "Coleus is a tender tropical plant, native to areas bordering the equator. Warmer zones can grow coleus as garden perennials, where they can grow to resemble small shrubs with thick woody stems. Though it loves the heat, it will happily grow as an annual in just about any garden, where it's normally used as an annual bedding plant or in containers.",
+	"purchase-link": "TBD",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/l/albuca_frizzle_sizzle_1.jpg",
+	"name" : "Fizzle Sizzle",
+	"scientific-name": "Albuca spiralis",
+	"description": "Albuca ‘Frizzle Sizzle’ or Corkscrew Albuca has thick, tightly curled leaves on short stems that arise from an underground bulb. Fragrant yellow flowers appear in spring on flower spikes that are adorned with10-20 blooms per spike. The blossoms have a light vanilla fragrance. Grow in full sun and allow the soil to dry out between waterings",
+	"purchase_link": "https://www.logees.com/albuca-frizzle-sizzle-albuca-spiralis.html",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/R/1/R1436-4-large.jpg",
+	"name" : "Banana Shrub",
+	"scientific-name": "Magnolia figo",
+	"description": "Delightfully sweet, this banana-like floral scent is a must for the fragrant garden. Known as the Banana Shrub, this Chinese member of the magnolia family blooms all year. It is most heavily laden with 2 inch creamy yellow and blushed-purple flowers in late winter and early spring. Formerly known as Michelia figo.",
+	"purchase-link": "https://www.logees.com/banana-shrub-michelia-figo-4inch.html",
+	"favorite": false
+},
+{
+	"light": "mod",
+	"moisture": "low",
+	"difficulty": "advanced",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/t/a/tacca_black_bat_flower_1.jpg",
+	"name" : "Black Bat Flower",
+	"scientific-name": "Tacca chantrieri",
+	"description": "The unusual black flowers look like bats with long cat whiskers, and they rise up on long stems from the broad shiny leaves. It tends to bloom from late summer through fall, often flowering for Halloween. Black Bat Flower is native to the tropical forests of Southeast Asia where it grows as an understory plant. It prefers partial sun or filtered light, warm temperatures and good air circulation around the plant.",
+	"purchase_link": "https://www.logees.com/black-bat-flower-tacca-chantrieri-4in.html",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/S/7/S7697-4-large.jpg",
+	"name" : "Pencil Cactus",
+	"scientific-name": "Euphorbia tirucalli",
+	"description": "A native of arid South Africa, this striking succulent is an ideal specimen plant for containers. Multiple fire-red stems, resembling small pencils or sticks, grow from the base of the plant. The red stems often show shades of pink, orange or yellow and the color is more vivid during the cooler months and when grown in bright sun.",
+	"purchase_link": "https://www.logees.com/pencil-cactus-firesticks-euphorbia-tirucalli.html",
+	"favorite": false
+},
+{
+	"light": "mod",
+	"moisture": "high",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/m/o/monstera_adansonii_sm.jpg",
+	"name": "Swiss Cheese Plant",
+	"scientific-name": "Monstera adansonii",
+	"description": "This is a very easy-to-grow houseplant with exotic, eye-catching foliage. Each mature leaf displays multiple oval holes, called fenestrations. These holes are theorized to allow sun and water through to the lower leaves in tropical environments and help the leaves stand up to forceful wind.",
+	"purchase-link": "https://www.logees.com/swiss-cheese-vine-monstera-adansonii-6-inch.html",
+	"favorite": false
+},
+{
+	"light": "mod",
+	"moisture": "mod",
+	"difficulty": "mod",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/n/anthurium_big_red_bird.jpg",
+	"name": "Big Red Bird",
+	"scientific-name": "Anthurium sect. Pachyneurium",
+	"description": "Long, lance-shaped leaves emerge green and turn red in bright light or cool temperatures. The foliage has a slight wave on the edges and some crinkle in the leaf. ‘Big Red Bird’ is in the Anthurium genus in the section called Pachyneurium.",
+	"purchase-link": "https://www.logees.com/anthurium-big-red-bird-anthurium-sect-pachyneurium.html",
+	"favorite": false
+},
+{
+	"light": "mod",
+	"moisture": "mod",
+	"difficulty": "beg",
+	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/r/9/r9359-2_-_pilea_pepermiodies_-_chinese_money_plant_-_new_1.jpg",
+	"name": "Chinese Money Plant",
+	"scientific-name": "Pilea peperomioides",
+	"description": "Chinese Money Plant is famous for its lore of attracting money into one’s life. Under cooler growing conditions, it will flower in the winter time although, as with most Pileas, the flowers are somewhat insignificant. Its adaptation to low light and succulent leaf structure make it an easy-care plant.",
+	"purchase-link": "https://www.logees.com/chinese-money-plant-pilea-peperomioides.html",
+	"favorite": false
+},
+{
+	"light": "high",
+	"moisture": "mod",
+	"difficulty": "mod",
+	"image": "https://www.thespruce.com/thmb/skFdkXHV8ZAZAp8-sn3Q6EA_wwE=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-strelitzia-1902742-09-770285428e594a2cacdf6888a82ab642.jpg",
+	"name": "Bird of Paradise",
+	"scientific-name": "Strelitzia reginae",
+	"description": "The bird of paradise plant is named for closely resembling the tropical bird of the same name. It is easier to grow than many tropical plants and makes for a vigorous, rapidly growing indoor plant. It can be moved outside in the summer and thrives outside for half the year.",
+	"purchase-link": "TBD",
+	"favorite": false
+},
+{
+	"light":"high",
+	"moisture": "low",
+	"difficulty": "beg",
+	"image": "https://www.thespruce.com/thmb/NoO_7sTouXUfWlfL8VRxTRmI0zk=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-bromeliads-indoors-1902667-06-f38c8f2549fb4685ba711653eae30fff.jpg",
+	"name": "Bromeliad",
+	"scientific-name": "Bromeliaceae genera",
+	"description": "The showy bromeliad may look difficult to grow, but it can easily adapt to average home conditions with its astonishing array of colors and textures. Although many do have very splashy flower displays, bromeliads are just as popular as beautiful foliage plants, with leaves in red, green, purple, orange, and yellow colors and with bands, stripes, spots, and other features. Bromeliads are relatively slow-growing plants that take one to three years to mature into flowering plants.",
+	"purchase-link": "TBD",
+	"favorite": false
+}
 ]
+	
+	
+	
+	
