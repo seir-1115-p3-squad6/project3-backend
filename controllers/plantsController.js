@@ -15,7 +15,7 @@ router.get('/:id', async (req, res, next) => {
 	try {
 		const plant = await Plant.findById(req.params.id);
 		if (plant) {
-			res.sendStatus(200).json(plant);
+			res.status(200).json(plant);
 		} else {
 			res.sendStatus(404);
 		}
@@ -27,7 +27,7 @@ router.get('/:id', async (req, res, next) => {
 router.post('/', async (req, res, next) => {
 	try {
 		const newPlant = await Plant.create(req.body);
-		res.sendStatus(201).json(newPlant);
+		res.status(201).json(newPlant);
 	} catch (error) {
 		next(error);
 	}
@@ -50,7 +50,7 @@ router.delete('/:id', async (req, res, next) => {
 	try {
 		const deletedPlant = await Plant.findByIdAndDelete(req.params.id);
 		if (deletedPlant) {
-			res.sendStatus(204).json(deletedPlant);
+			res.status(204).json(deletedPlant);
 		} else {
 			res.sendStatus(404);
 		}
