@@ -40,7 +40,13 @@ router.put('/:id', async (req, res, next) => {
 			req.body,
 			{ new: true }
 		);
-		res.json(updatedPlant);
+
+		if (updatedPlant) {
+			const plants = await Plant.find({});
+			res.json(plants);
+		} else {
+			res.sendStatus(404);
+		}
 	} catch (error) {
 		next(error);
 	}
