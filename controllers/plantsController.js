@@ -65,29 +65,4 @@ router.delete('/:id', async (req, res, next) => {
 	}
 });
 
-router.route('/?category=highlight').get(async function (req, res, next) {
-	await Plant.find({ light: 'high' }, function (err, result) {
-		if (err) {
-			res.send(err);
-		} else {
-			res.send(result);
-		}
-	});
-});
-
-// router.get('/?category=highlight', async (req, res, next) => {
-// 	try {
-// 		 await Plant.find({ light: 'high' }, function (err, result) {
-// 			if (err) {
-//                 res.send(err)
-//             } else {
-
-//                 res.json(result);
-//             }
-// 		});
-// 	} catch (error) {
-// 		next(error);
-// 	}
-// });
-
-module.exports = router;
+https: module.exports = router;
