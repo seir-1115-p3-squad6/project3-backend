@@ -4,13 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-=======
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> e521347 (change start script for heroku deployment)
     
   },
   "repository": {
