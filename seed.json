@@ -113,12 +113,12 @@
 },
 {
 	"light": "moderate",
-	"moisture": "low",
+	"moisture": "high",
 	"difficulty": "advanced",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/t/a/tacca_black_bat_flower_1.jpg",
 	"name" : "Black Bat Flower",
 	"scientific_name": "Tacca chantrieri",
-	"description": "",
+	"description": "The Black Bat flower is a novelty plant known for its bloom which resembles a bat. This flower needs a shady location, yearly repotting, well-draining soil that is kept moist but not soggy. A great plant for Halloween!",
 	"purchase_link": "https://www.logees.com/black-bat-flower-tacca-chantrieri-4in.html",
 	"favorite": false
 },
@@ -129,7 +129,7 @@
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/S/7/S7697-4-large.jpg",
 	"name" : "Pencil Cactus",
 	"scientific_name": "Euphorbia tirucalli",
-	"description": "",
+	"description": "The Pencil Cactus is actually not a cactus but a succulent. Pencil Cacti are neglect friendly, only requiring minimal watering and a bright sunny location. Like most succulents it prefers well-draining soil with plenty of drainage holes in the growing pot. Pencil Cacti can grow to be 30 feet tall in the wild, so plant in a room with high cielings! Pencil Cacti do have toxic sap, so handle carefully.",
 	"purchase_link": "https://www.logees.com/pencil-cactus-firesticks-euphorbia-tirucalli.html",
 	"favorite": false
 },
@@ -138,9 +138,9 @@
 	"moisture": "high",
 	"difficulty": "beginner",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/m/o/monstera_adansonii_sm.jpg",
-	"name": "Swiss Cheese Plant",
+	"name": "Swiss Cheese Monstera",
 	"scientific_name": "Monstera adansonii",
-	"description": "",
+	"description": "Swiss Cheese Monstera plants get their name from their large flat leaves with sporadic holes, thus resembling Swiss cheese. This plant is a fast growing vininig plant perfect for hanging baskets with access to bright indirect light. They prefer moist well drained soil like most tropical plants. Beware, all parts of the plant are toxic.",
 	"purchase_link": "https://www.logees.com/swiss-cheese-vine-monstera-adansonii-6-inch.html",
 	"favorite": false
 },
@@ -149,9 +149,9 @@
 	"moisture": "moderate",
 	"difficulty": "moderate",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/n/anthurium_big_red_bird.jpg",
-	"name": "Big Red Bird",
-	"scientific_name": "Anthurium sect. Pachyneurium",
-	"description": "",
+	"name": "Laceleaf Plant",
+	"scientific_name": "Anthurium",
+	"description": "Known for their bright leaf shaped flower, Laceleaf plants thrive in areas with indirect light, and a moderate watering schedule. Consider planting them in a half succulent half container soil potting mix for idea moisture conditions. A great pop of color with lovely green foliage!",
 	"purchase_link": "https://www.logees.com/anthurium-big-red-bird-anthurium-sect-pachyneurium.html",
 	"favorite": false
 },
@@ -162,7 +162,7 @@
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/r/9/r9359-2_-_pilea_pepermiodies_-_chinese_money_plant_-_new_1.jpg",
 	"name": "Chinese Money Plant",
 	"scientific_name": "Pilea peperomioides",
-	"description": "",
+	"description": "Also known as a Pancake plant for it's flat circular leaves, the Chinese Money plant is an ideal beginner houseplant. Originally from China, this plant is known for it's ability to be shared between friends. Rumor has it that friends who exchange clippings of this plant will remain friends for life! They prefer bright indirect sunlight and well-draining soil that is allowed to dry out between waterings.",
 	"purchase_link": "https://www.logees.com/chinese-money-plant-pilea-peperomioides.html",
 	"favorite": false
 },
@@ -173,18 +173,18 @@
 	"image": "https://www.thespruce.com/thmb/skFdkXHV8ZAZAp8-sn3Q6EA_wwE=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-strelitzia-1902742-09-770285428e594a2cacdf6888a82ab642.jpg",
 	"name": "Bird of Paradise",
 	"scientific_name": "Strelitzia reginae",
-	"description": "",
+	"description": "The Bird of Paradise is a stunning tropical plant known for it's large stunning leaves and huge bloom resembling a colorful bird. This tropical plant prefers a bright environment and moist but never soggy soil. Allow the top 3 inches of soil to dry between waterings. A plant like this needs an attentive owner making it best suited for moderately experienced plant parents.",
 	"purchase_link": "https://bloomscape.com/product/bird-of-paradise/",
 	"favorite": false
 },
 {
 	"light":"high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "moderate",
 	"image": "https://www.thespruce.com/thmb/NoO_7sTouXUfWlfL8VRxTRmI0zk=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-bromeliads-indoors-1902667-06-f38c8f2549fb4685ba711653eae30fff.jpg",
 	"name": "Bromeliad",
 	"scientific_name": "Bromeliaceae genera",
-	"description": "",
+	"description": "A bright addition to any home or office, the bromeliad is known for it's colorful tropical foliage. Bromeliads prefer shallow pots and growing mediums like orchid mixers. Simply fill the cup at the base of the leaves to water. Keep in bright indirect light locations and watch your tropical friend grow!",
 	"purchase_link": "https://bloomscape.com/product/bromeliad-aechmea-pink/",
 	"favorite": false
 }
