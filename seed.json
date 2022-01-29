@@ -79,12 +79,12 @@
 },
 {
 	"light": "high",
-	"moisture": "moderate",
+	"moisture": "low",
 	"difficulty": "beginner",
 	"image": "https://www.thespruce.com/thmb/EvjsOfTArtJny4vQmC5d5n0_2dI=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-jade-plants-indoors-1902981-04-257462b8baf44352b881336423291f60.jpg",
 	"name": "Jade",
 	"scientific_name": "Crassula arborescens",
-	"description": "",
+	"description": "A classic, easy to grow succulent, Jade plants grow flat oval leaves on a branching tree like structure. The are a long-lasting plant perfect for beginners. Place your Jade plant in an area with plenty of bright indirect sunlight. You'll only need to water your Jade plant when the soil is completley dry, and avoid your Jade plant sitting in standing water. Don't worry if it sheds some leaves every now and then. It's normal!",
 	"purchase_link": "https://bloomscape.com/product/jade-plant/",
 	"favorite": false
 },
