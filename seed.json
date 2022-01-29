@@ -2,7 +2,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/e/u/euphorbia_-_pink_petticoat.jpg",
 	"name": "Crown of Thorns",
 	"scientific_name": "Euphorbia milii hybrid",
@@ -13,7 +13,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "moderate",
+	"difficulty": "mod",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/d/adenium_innocent_glow.jpg",
 	"name": "Innocent Glow (Adenium hybrid)",
 	"scientific_name": "Adenium",
@@ -24,7 +24,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/c/r/crassula_black_curl.jpg",
 	"name": "Black Curl",
 	"scientific_name": "Crassula spiralis",
@@ -33,9 +33,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
+	"light": "mod",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/b/e/bead_plant_in_face_pot-sm.jpg",
 	"name": "Bead Plant",
 	"scientific_name": "Senecio rowleyanus",
@@ -46,7 +46,7 @@
 {
 	"light": "low",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/o/r/orchid_phalaenopsis_fancy_freckles.jpg",
 	"name": "Fancy Freckles",
 	"scientific_name": "Phalaenopsis Orchid",
@@ -55,9 +55,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
+	"light": "med",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.bambooland.com.au/assets/thumbL/MEDMYR180.jpg?20210309031556",
 	"name": "Malaysian Orchid",
 	"scientific_name": "Medinilla myriantha",
@@ -66,9 +66,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
+	"light": "med",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.thespruce.com/thmb/3XSSwPIPzRyQSpOc97zuDyUQWU8=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_DSC58741-476b7f7ef66d44ba8ce33cbc0d7b8dd4.jpg",
 	"name": "Aloe Vera",
 	"scientific_name": "Aloe barbadensis miller",
@@ -77,9 +77,9 @@
 	"favorite": "false"
 },
 {
-	"light": "moderate",
+	"light": "mod",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.thespruce.com/thmb/z-_28WaLfJKF19Zre4WQTnVHGiM=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/spider-plants-chlorophytum-definition-1902773-02-4fc579ee1b874f4ca148482782d163b6.jpg",
 	"name": "Spider Plant",
 	"scientific_name": "Chlorophytum comosum",
@@ -89,8 +89,8 @@
 },
 {
 	"light": "high",
-	"moisture": "moderate",
-	"difficulty": "beginner",
+	"moisture": "mod",
+	"difficulty": "beg",
 	"image": "https://www.thespruce.com/thmb/EvjsOfTArtJny4vQmC5d5n0_2dI=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-jade-plants-indoors-1902981-04-257462b8baf44352b881336423291f60.jpg",
 	"name": "Jade",
 	"scientific_name": "Crassula arborescens",
@@ -101,7 +101,7 @@
 {
 	"light": "low",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.thespruce.com/thmb/16NwgnLN78S3kDeun436p28ZqpI=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-peace-lilies-1902767-hero-01-01-9cd2172cd5ef4d7198351df445b8e851.jpg",
 	"name": "Peace Lily",
 	"scientific_name": "Spathiphyllum",
@@ -112,7 +112,7 @@
 {
 	"light": "high",
 	"moisture": "high",
-	"difficulty": "moderate",
+	"difficulty": "mod",
 	"image": "https://www.thespruce.com/thmb/ixTsrJEeyPlK0Cd8NWEHnMzM4Ac=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-coleus-1402921-03-14b65c6a336e4319867fdcb82187af28.jpg",
 	"name": "Coleus",
 	"scientific_name": "Plectranthus scutellarioides",
@@ -123,7 +123,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/l/albuca_frizzle_sizzle_1.jpg",
 	"name" : "Fizzle Sizzle",
 	"scientific_name": "Albuca spiralis",
@@ -134,7 +134,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/R/1/R1436-4-large.jpg",
 	"name" : "Banana Shrub",
 	"scientific_name": "Magnolia figo",
@@ -143,7 +143,7 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
+	"light": "mod",
 	"moisture": "low",
 	"difficulty": "advanced",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/t/a/tacca_black_bat_flower_1.jpg",
@@ -156,7 +156,7 @@
 {
 	"light": "high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/S/7/S7697-4-large.jpg",
 	"name" : "Pencil Cactus",
 	"scientific_name": "Euphorbia tirucalli",
@@ -165,9 +165,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
+	"light": "mod",
 	"moisture": "high",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/m/o/monstera_adansonii_sm.jpg",
 	"name": "Swiss Cheese Plant",
 	"scientific_name": "Monstera adansonii",
@@ -176,9 +176,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
-	"moisture": "moderate",
-	"difficulty": "moderate",
+	"light": "mod",
+	"moisture": "mod",
+	"difficulty": "mod",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/a/n/anthurium_big_red_bird.jpg",
 	"name": "Big Red Bird",
 	"scientific_name": "Anthurium sect. Pachyneurium",
@@ -187,9 +187,9 @@
 	"favorite": false
 },
 {
-	"light": "moderate",
-	"moisture": "moderate",
-	"difficulty": "beginner",
+	"light": "mod",
+	"moisture": "mod",
+	"difficulty": "beg",
 	"image": "https://www.logees.com/media/catalog/product/cache/591fdb89253f9c8a7ddf22863c64f690/r/9/r9359-2_-_pilea_pepermiodies_-_chinese_money_plant_-_new_1.jpg",
 	"name": "Chinese Money Plant",
 	"scientific_name": "Pilea peperomioides",
@@ -199,8 +199,8 @@
 },
 {
 	"light": "high",
-	"moisture": "moderate",
-	"difficulty": "moderate",
+	"moisture": "mod",
+	"difficulty": "mod",
 	"image": "https://www.thespruce.com/thmb/skFdkXHV8ZAZAp8-sn3Q6EA_wwE=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-strelitzia-1902742-09-770285428e594a2cacdf6888a82ab642.jpg",
 	"name": "Bird of Paradise",
 	"scientific_name": "Strelitzia reginae",
@@ -211,13 +211,13 @@
 {
 	"light":"high",
 	"moisture": "low",
-	"difficulty": "beginner",
+	"difficulty": "beg",
 	"image": "https://www.thespruce.com/thmb/NoO_7sTouXUfWlfL8VRxTRmI0zk=/941x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/grow-bromeliads-indoors-1902667-06-f38c8f2549fb4685ba711653eae30fff.jpg",
 	"name": "Bromeliad",
 	"scientific_name": "Bromeliaceae genera",
 	"description": "The showy bromeliad may look difficult to grow, but it can easily adapt to average home conditions with its astonishing array of colors and textures. Although many do have very splashy flower displays, bromeliads are just as popular as beautiful foliage plants, with leaves in red, green, purple, orange, and yellow colors and with bands, stripes, spots, and other features. Bromeliads are relatively slow-growing plants that take one to three years to mature into flowering plants.",
 	"purchase_link": "TBD",
-	"favorite": true
+	"favorite": false
 }
 ]
 	
