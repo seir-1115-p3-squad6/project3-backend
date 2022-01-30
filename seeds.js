@@ -11,3 +11,5 @@ Plant.deleteMany({})
 		});
 	})
 	.catch((err) => console.error(err));
+
+// Photo's used for the plants are from thespruce.com
